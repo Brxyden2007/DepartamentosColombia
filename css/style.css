@@ -65,10 +65,14 @@
 .amazonasMap {
     width: 35em;
 }
+.alignSectors {
+    display: flex;
+    justify-content: center;
+}
 .santanderMapContainer {
     background-color:beige;
     text-align: center;
 }
 .santanderMap {
-    width: 35em;
+    width: 18em;
 }
