@@ -58,7 +58,7 @@
 .chocoPosition:hover {
     color: red;
 }
-.amazonasMapContainer {
+.MapContainer {
     background-color:beige;
     text-align: center;
 }
@@ -68,10 +68,6 @@
 .alignSectors {
     display: flex;
     justify-content: center;
-}
-.santanderMapContainer {
-    background-color:beige;
-    text-align: center;
 }
 .santanderMap {
     width: 18em;
