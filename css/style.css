@@ -1,0 +1,67 @@
+* {
+    box-sizing: border-box;
+    background-color: transparent;
+}
+.container{
+    text-align: center;
+}
+.h1titleColor {
+    background-color:wheat;
+    color: blue;
+}
+.h2titleColor {
+    background-color: wheat;
+    color: slateblue;
+}
+.amazonasPosition {
+    color: white;
+    position: absolute;
+    top: 82%;
+    left: 52%;
+}
+.amazonasPosition:hover {
+    color: red;
+}
+.santanderPosition {
+    color: white;
+    position: absolute;
+    top: 35.4%;
+    left: 44%;
+}
+.santanderPosition:hover {
+    color: red;
+}
+.nariñoPosition {
+    color:white;
+    position: absolute;
+    top: 66%;
+    left: 17%;
+}
+.nariñoPosition:hover {
+    color: red;
+}
+.guajiraPosition {
+    color: white;
+    position: absolute;
+    top: 10.4%;
+    left: 46.5%;
+}
+.guajiraPosition:hover {
+    color: red;
+}
+.chocoPosition {
+    color: white;
+    position: absolute;
+    top: 42%;
+    left: 24%;
+}
+.chocoPosition:hover {
+    color: red;
+}
+.amazonasMapContainer {
+    background-color: aquamarine;
+    text-align: center;
+}
+.amazonasMap {
+    width: 20em;
+}
