@@ -6,12 +6,12 @@
     text-align: center;
 }
 .h1titleColor {
-    background-color:wheat;
-    color: blue;
+    background-color:darkgray;
+    color: red;
 }
 .h2titleColor {
-    background-color: wheat;
-    color: slateblue;
+    background-color: darkgray;
+    color: red;
 }
 .amazonasPosition {
     color: white;
@@ -59,9 +59,16 @@
     color: red;
 }
 .amazonasMapContainer {
-    background-color: aquamarine;
+    background-color:beige;
     text-align: center;
 }
 .amazonasMap {
-    width: 20em;
+    width: 35em;
+}
+.santanderMapContainer {
+    background-color:beige;
+    text-align: center;
+}
+.santanderMap {
+    width: 35em;
 }
