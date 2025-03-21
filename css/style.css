@@ -3,7 +3,11 @@
     background-color: transparent;
 }
 .container{
+    margin-left: 25%;
+    background-position: center;
+    background-size: cover;
     text-align: center;
+    position: absolute;
 }
 .h1titleColor {
     background-color:darkgray;
@@ -16,8 +20,8 @@
 .amazonasPosition {
     color: white;
     position: absolute;
-    top: 82%;
-    left: 52%;
+    top: 80%;
+    left: 56%;
 }
 .amazonasPosition:hover {
     color: red;
@@ -25,8 +29,8 @@
 .santanderPosition {
     color: white;
     position: absolute;
-    top: 35.4%;
-    left: 44%;
+    top: 34.4%;
+    left: 43%;
 }
 .santanderPosition:hover {
     color: red;
@@ -34,8 +38,8 @@
 .nariñoPosition {
     color:white;
     position: absolute;
-    top: 66%;
-    left: 17%;
+    top: 64%;
+    left: 14%;
 }
 .nariñoPosition:hover {
     color: red;
@@ -43,8 +47,8 @@
 .guajiraPosition {
     color: white;
     position: absolute;
-    top: 10.4%;
-    left: 46.5%;
+    top: 9.5%;
+    left: 46.4%;
 }
 .guajiraPosition:hover {
     color: red;
@@ -53,7 +57,7 @@
     color: white;
     position: absolute;
     top: 42%;
-    left: 24%;
+    left: 22%;
 }
 .chocoPosition:hover {
     color: red;
@@ -66,7 +70,8 @@
     width: 35em;
 }
 .alignSectors {
-    display: flex;
+    margin-left: 25%;
+    margin-right: 25%;
     justify-content: center;
 }
 .santanderMap {
